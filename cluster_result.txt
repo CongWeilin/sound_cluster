@@ -1,119 +1,119 @@
 Cluster 0
-index 86 result/cluster_0/S75- Rolling_Shuffling dice.flac
-index 92 result/cluster_0/S69 - Tearing paper.flac
-index 24 result/cluster_0/S86 -Makeup Applicator & Bottle.flac
-index 80 result/cluster_0/S60 - Striking a match.flac
-index 42 result/cluster_0/S90 - Flipping pages.flac
-index 9 result/cluster_0/S41 -Open Container.flac
-index 53 result/cluster_0/S72 - Spraying liquid.flac
-index 41 result/cluster_0/M21 - Flip the boolet page.flac
-index 74 result/cluster_0/S73- Nail File.flac
-index 95 result/cluster_0/S54 - Squishing Foam.flac
-index 6 result/cluster_0/S44 - Scratching jeans.flac
-index 10 result/cluster_0/S61 Turning_rotating lipstick.flac
-index 27 result/cluster_0/S38 - Bag of Flour 1.flac
-index 75 result/cluster_0/S77- Eating pickle.flac
-index 13 result/cluster_0/S78 - Shaking liquid bottle.flac
-index 96 result/cluster_0/S87 - Playing Marbles.flac
-index 63 result/cluster_0/S76 - Playing one dollar.flac
-index 40 result/cluster_0/S53 - Air Spraying.flac
-index 35 result/cluster_0/M29 - Fingertips playing on the card.flac
-index 82 result/cluster_0/M28 - Swinging dice.flac
-index 38 result/cluster_0/M20 - Wooden box taken out.flac
-index 78 result/cluster_0/S84 - Makeup brush .flac
-index 16 result/cluster_0/S64 - Writing on Paper.flac
-index 85 result/cluster_0/S56 - Squishing Sponge.flac
-index 98 result/cluster_0/M37 - Fingers going through paper clips.flac
-index 20 result/cluster_0/S82 - Flipping book.flac
-index 37 result/cluster_0/S70 - Rubbing Cotton.flac
-index 17 result/cluster_0/S92 - Tapping skin.flac
-index 36 result/cluster_0/S49 - Hand rubbing the mic.flac
-index 5 result/cluster_0/Typing Keyboard.flac
-index 60 result/cluster_0/M43 - Scraping make-up foundation.flac
-index 46 result/cluster_0/M17 - Drawing short lines.flac
-index 11 result/cluster_0/M45 - Spread out the toothpaste.flac
-index 100 result/cluster_0/M42 - Stir the cream.flac
-index 4 result/cluster_0/S91- Squishing soap suds.flac
-index 104 result/cluster_0/S43 - Brushing the mic.flac
-index 64 result/cluster_0/M06 - Using a knife to roll over the pencils.flac
-index 23 result/cluster_0/S52 - Squeezing Serum Pipette.flac
-index 91 result/cluster_0/S51 - Scraching Pencilbox.flac
-index 14 result/cluster_0/S81 - Trimmer buzz sound.flac
+closest 0 index 86 result/cluster_0/S75- Rolling_Shuffling dice.flac
+closest 1 index 92 result/cluster_0/S69 - Tearing paper.flac
+closest 2 index 24 result/cluster_0/S86 -Makeup Applicator & Bottle.flac
+closest 3 index 80 result/cluster_0/S60 - Striking a match.flac
+closest 4 index 42 result/cluster_0/S90 - Flipping pages.flac
+closest 5 index 9 result/cluster_0/S41 -Open Container.flac
+closest 6 index 53 result/cluster_0/S72 - Spraying liquid.flac
+closest 7 index 41 result/cluster_0/M21 - Flip the boolet page.flac
+closest 8 index 74 result/cluster_0/S73- Nail File.flac
+closest 9 index 95 result/cluster_0/S54 - Squishing Foam.flac
+closest 10 index 6 result/cluster_0/S44 - Scratching jeans.flac
+closest 11 index 10 result/cluster_0/S61 Turning_rotating lipstick.flac
+closest 12 index 27 result/cluster_0/S38 - Bag of Flour 1.flac
+closest 13 index 75 result/cluster_0/S77- Eating pickle.flac
+closest 14 index 13 result/cluster_0/S78 - Shaking liquid bottle.flac
+closest 15 index 96 result/cluster_0/S87 - Playing Marbles.flac
+closest 16 index 63 result/cluster_0/S76 - Playing one dollar.flac
+closest 17 index 40 result/cluster_0/S53 - Air Spraying.flac
+closest 18 index 35 result/cluster_0/M29 - Fingertips playing on the card.flac
+closest 19 index 82 result/cluster_0/M28 - Swinging dice.flac
+closest 20 index 38 result/cluster_0/M20 - Wooden box taken out.flac
+closest 21 index 78 result/cluster_0/S84 - Makeup brush .flac
+closest 22 index 16 result/cluster_0/S64 - Writing on Paper.flac
+closest 23 index 85 result/cluster_0/S56 - Squishing Sponge.flac
+closest 24 index 98 result/cluster_0/M37 - Fingers going through paper clips.flac
+closest 25 index 20 result/cluster_0/S82 - Flipping book.flac
+closest 26 index 37 result/cluster_0/S70 - Rubbing Cotton.flac
+closest 27 index 17 result/cluster_0/S92 - Tapping skin.flac
+closest 28 index 36 result/cluster_0/S49 - Hand rubbing the mic.flac
+closest 29 index 5 result/cluster_0/Typing Keyboard.flac
+closest 30 index 60 result/cluster_0/M43 - Scraping make-up foundation.flac
+closest 31 index 46 result/cluster_0/M17 - Drawing short lines.flac
+closest 32 index 11 result/cluster_0/M45 - Spread out the toothpaste.flac
+closest 33 index 100 result/cluster_0/M42 - Stir the cream.flac
+closest 34 index 4 result/cluster_0/S91- Squishing soap suds.flac
+closest 35 index 104 result/cluster_0/S43 - Brushing the mic.flac
+closest 36 index 64 result/cluster_0/M06 - Using a knife to roll over the pencils.flac
+closest 37 index 23 result/cluster_0/S52 - Squeezing Serum Pipette.flac
+closest 38 index 91 result/cluster_0/S51 - Scraching Pencilbox.flac
+closest 39 index 14 result/cluster_0/S81 - Trimmer buzz sound.flac
 
 
 
 Cluster 1
-index 72 result/cluster_1/M15 - Open a fudge pack.flac
-index 67 result/cluster_1/M19 - Taking out a plastic bag.flac
-index 30 result/cluster_1/M14 - Open a candy pack.flac
-index 45 result/cluster_1/S55 - Shuffling Cards.flac
-index 70 result/cluster_1/M08 - Cut a detergent pod with a burining knife.flac
-index 26 result/cluster_1/S40 - Open Can.flac
-index 48 result/cluster_1/M33 - Wiping the newspaper.flac
-index 87 result/cluster_1/M24 - Rock Scraping.flac
-index 25 result/cluster_1/S79 -Nail scratching card.flac
-index 94 result/cluster_1/S85 - Dropping googly eyes.flac
-index 81 result/cluster_1/M39 - Stiring the sand.flac
-index 55 result/cluster_1/M05 - Squeeze out the balls with car wheels.flac
-index 7 result/cluster_1/M07 - Using a paper cutter to cut a blue object.flac
-index 105 result/cluster_1/S67 -Cat licking.flac
-index 106 result/cluster_1/M36 - Fingers going through puzzle pieces.flac
-index 39 result/cluster_1/M38 - Taking out plastic cover.flac
-index 61 result/cluster_1/S39 - Dropping Bath Bomb .flac
-index 76 result/cluster_1/S63 - Twisting wood sticks.flac
-index 0 result/cluster_1/M40 - Paint drops.flac
-index 101 result/cluster_1/S74 - Hair Cutting.flac
-index 49 result/cluster_1/M30 - DiceShuffling.flac
-index 66 result/cluster_1/S88 - Playing with Jewelry.flac
-index 52 result/cluster_1/Candy in Box.flac
-index 44 result/cluster_1/S48 - Spraying perfume.flac
-index 3 result/cluster_1/M25 - Taking off shoelace.flac
-index 89 result/cluster_1/M35 - Shuffling puzzle pieces .flac
-index 99 result/cluster_1/M23 - Rock Wiping.flac
-index 83 result/cluster_1/M09 - Roll over the wooden pieces with the car wheel.flac
-index 77 result/cluster_1/M10 - Scraching the rug.flac
-index 88 result/cluster_1/M18 - Drawing dots with pen.flac
-index 93 result/cluster_1/M26 - Shoe Leather Wiping.flac
-index 65 result/cluster_1/M34 - Highlighting newspaper.flac
-index 90 result/cluster_1/M11 - Rubbing the rug and the tape.flac
-index 97 result/cluster_1/S57 - Squishing Toy.flac
-index 62 result/cluster_1/S58 - Playing with teebag.flac
-index 15 result/cluster_1/M46 - Stir the powder with water.flac
-index 57 result/cluster_1/S83 - Openning and closing Mascara.flac
-index 54 result/cluster_1/M16 - Writing with pen.flac
-index 68 result/cluster_1/M04 - Cutting layers.flac
-index 22 result/cluster_1/S80 - Mouse Clicking.flac
-index 73 result/cluster_1/S69 - Soda Fizz.flac
-index 29 result/cluster_1/S85 - (Marker)writing on Newspaper.flac
-index 56 result/cluster_1/S50 - Dispensing Shaving Cream.flac
-index 103 result/cluster_1/M41 - Squeeze cream.flac
+closest 0 index 72 result/cluster_1/M15 - Open a fudge pack.flac
+closest 1 index 67 result/cluster_1/M19 - Taking out a plastic bag.flac
+closest 2 index 30 result/cluster_1/M14 - Open a candy pack.flac
+closest 3 index 45 result/cluster_1/S55 - Shuffling Cards.flac
+closest 4 index 70 result/cluster_1/M08 - Cut a detergent pod with a burining knife.flac
+closest 5 index 26 result/cluster_1/S40 - Open Can.flac
+closest 6 index 48 result/cluster_1/M33 - Wiping the newspaper.flac
+closest 7 index 87 result/cluster_1/M24 - Rock Scraping.flac
+closest 8 index 25 result/cluster_1/S79 -Nail scratching card.flac
+closest 9 index 94 result/cluster_1/S85 - Dropping googly eyes.flac
+closest 10 index 81 result/cluster_1/M39 - Stiring the sand.flac
+closest 11 index 55 result/cluster_1/M05 - Squeeze out the balls with car wheels.flac
+closest 12 index 7 result/cluster_1/M07 - Using a paper cutter to cut a blue object.flac
+closest 13 index 105 result/cluster_1/S67 -Cat licking.flac
+closest 14 index 106 result/cluster_1/M36 - Fingers going through puzzle pieces.flac
+closest 15 index 39 result/cluster_1/M38 - Taking out plastic cover.flac
+closest 16 index 61 result/cluster_1/S39 - Dropping Bath Bomb .flac
+closest 17 index 76 result/cluster_1/S63 - Twisting wood sticks.flac
+closest 18 index 0 result/cluster_1/M40 - Paint drops.flac
+closest 19 index 101 result/cluster_1/S74 - Hair Cutting.flac
+closest 20 index 49 result/cluster_1/M30 - DiceShuffling.flac
+closest 21 index 66 result/cluster_1/S88 - Playing with Jewelry.flac
+closest 22 index 52 result/cluster_1/Candy in Box.flac
+closest 23 index 44 result/cluster_1/S48 - Spraying perfume.flac
+closest 24 index 3 result/cluster_1/M25 - Taking off shoelace.flac
+closest 25 index 89 result/cluster_1/M35 - Shuffling puzzle pieces .flac
+closest 26 index 99 result/cluster_1/M23 - Rock Wiping.flac
+closest 27 index 83 result/cluster_1/M09 - Roll over the wooden pieces with the car wheel.flac
+closest 28 index 77 result/cluster_1/M10 - Scraching the rug.flac
+closest 29 index 88 result/cluster_1/M18 - Drawing dots with pen.flac
+closest 30 index 93 result/cluster_1/M26 - Shoe Leather Wiping.flac
+closest 31 index 65 result/cluster_1/M34 - Highlighting newspaper.flac
+closest 32 index 90 result/cluster_1/M11 - Rubbing the rug and the tape.flac
+closest 33 index 97 result/cluster_1/S57 - Squishing Toy.flac
+closest 34 index 62 result/cluster_1/S58 - Playing with teebag.flac
+closest 35 index 15 result/cluster_1/M46 - Stir the powder with water.flac
+closest 36 index 57 result/cluster_1/S83 - Openning and closing Mascara.flac
+closest 37 index 54 result/cluster_1/M16 - Writing with pen.flac
+closest 38 index 68 result/cluster_1/M04 - Cutting layers.flac
+closest 39 index 22 result/cluster_1/S80 - Mouse Clicking.flac
+closest 40 index 73 result/cluster_1/S69 - Soda Fizz.flac
+closest 41 index 29 result/cluster_1/S85 - (Marker)writing on Newspaper.flac
+closest 42 index 56 result/cluster_1/S50 - Dispensing Shaving Cream.flac
+closest 43 index 103 result/cluster_1/M41 - Squeeze cream.flac
 
 
 
 Cluster 2
-index 59 result/cluster_2/M49 - CuttingStrawberries.flac
-index 51 result/cluster_2/M50 - Put strawberries on Netella.flac
-index 47 result/cluster_2/M48 - Pouring Netella on the plate.flac
-index 19 result/cluster_2/M52 - Chopping frozen yogurt.flac
-index 33 result/cluster_2/M51 - Chopping Strawberries.flac
-index 28 result/cluster_2/M47 - Twisting Netella Lid.flac
-index 2 result/cluster_2/M53 - Making Icecream Rolls.flac
-index 12 result/cluster_2/M27 - Shoe Wiping with a brush.flac
-index 8 result/cluster_2/S47 - Wrapping the mic.flac
-index 31 result/cluster_2/M32 - Taking out chocolate bar.flac
-index 18 result/cluster_2/S89 - Crinkling plastic gloves .flac
-index 71 result/cluster_2/M31 - Poking on candy bar with stick.flac
-index 69 result/cluster_2/S71 - Crashing paper.flac
-index 102 result/cluster_2/S42 - Pulling Blue Tape.flac
-index 84 result/cluster_2/M44 - Pouring Water into sponges.flac
-index 1 result/cluster_2/M12 - Brushing the tape.flac
-index 50 result/cluster_2/M22 - Mud Scraping.flac
-index 79 result/cluster_2/S66 - Playing Zipper.flac
-index 43 result/cluster_2/S46 - Pouring Water.flac
-index 58 result/cluster_2/S45 - Pulling a box.flac
-index 21 result/cluster_2/M13 - Tickle the rug.flac
-index 32 result/cluster_2/S62 - Toy buzz sound.flac
-index 34 result/cluster_2/S68 - Scratching comb.flac
+closest 0 index 59 result/cluster_2/M49 - CuttingStrawberries.flac
+closest 1 index 51 result/cluster_2/M50 - Put strawberries on Netella.flac
+closest 2 index 47 result/cluster_2/M48 - Pouring Netella on the plate.flac
+closest 3 index 19 result/cluster_2/M52 - Chopping frozen yogurt.flac
+closest 4 index 33 result/cluster_2/M51 - Chopping Strawberries.flac
+closest 5 index 28 result/cluster_2/M47 - Twisting Netella Lid.flac
+closest 6 index 2 result/cluster_2/M53 - Making Icecream Rolls.flac
+closest 7 index 12 result/cluster_2/M27 - Shoe Wiping with a brush.flac
+closest 8 index 8 result/cluster_2/S47 - Wrapping the mic.flac
+closest 9 index 31 result/cluster_2/M32 - Taking out chocolate bar.flac
+closest 10 index 18 result/cluster_2/S89 - Crinkling plastic gloves .flac
+closest 11 index 71 result/cluster_2/M31 - Poking on candy bar with stick.flac
+closest 12 index 69 result/cluster_2/S71 - Crashing paper.flac
+closest 13 index 102 result/cluster_2/S42 - Pulling Blue Tape.flac
+closest 14 index 84 result/cluster_2/M44 - Pouring Water into sponges.flac
+closest 15 index 1 result/cluster_2/M12 - Brushing the tape.flac
+closest 16 index 50 result/cluster_2/M22 - Mud Scraping.flac
+closest 17 index 79 result/cluster_2/S66 - Playing Zipper.flac
+closest 18 index 43 result/cluster_2/S46 - Pouring Water.flac
+closest 19 index 58 result/cluster_2/S45 - Pulling a box.flac
+closest 20 index 21 result/cluster_2/M13 - Tickle the rug.flac
+closest 21 index 32 result/cluster_2/S62 - Toy buzz sound.flac
+closest 22 index 34 result/cluster_2/S68 - Scratching comb.flac
 
 
 
